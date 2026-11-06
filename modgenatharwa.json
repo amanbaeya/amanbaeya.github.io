@@ -201,6 +201,31 @@
       "file": "https://github.com/manawangsa/sukropak/releases/download/muncang/zotyco.mcworld"
     },
 	{
+      "name": "Cherry Blossoms House",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/cherhous.jpeg",
+      "file": "https://github.com/manawangsa/paduwae/releases/download/burik/cherhous.mcworld"
+    },
+	{
+      "name": "Aphmau House",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/aphous.jpeg",
+      "file": "https://github.com/manawangsa/paduwae/releases/download/burik/aphous.mcworld"
+    },
+	{
+      "name": "Pink House",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/pinkrum.jpg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/muncang/pinkrum.mcworld"
+    },
+	{
+      "name": "Pink Mansion",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/piksion.jpg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/muncang/piksion.mcworld"
+    },
+	{
+      "name": "Mermaid Quest",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/merque.jpeg",
+      "file": "https://github.com/manawangsa/paduwae/releases/download/burik/merque.mcworld"
+    },
+	{
       "name": "Animal World",
       "image": "https://raw.githubusercontent.com/kodizar/majula/main/animwo.jpeg",
       "file": "https://github.com/manawangsa/sukropak/releases/download/muncang/animwo.mcworld"
@@ -216,19 +241,9 @@
       "file": "https://github.com/manawangsa/sukropak/releases/download/muncang/monster2.mcworld"
     },
 	{
-      "name": "Ocean Monster",
-      "image": "https://raw.githubusercontent.com/kodizar/majula/main/ocemons.jpg",
-      "file": "https://github.com/manawangsa/sukropak/releases/download/muncang/ocemons.mcworld"
-    },
-	{
       "name": "Playtime Battle",
       "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/monster4.jpg",
       "file": "https://github.com/manawangsa/sukropak/releases/download/muncang/monster4.mcworld"
-    },
-	{
-      "name": "Scary Spunky",
-      "image": "https://raw.githubusercontent.com/elisjaenudin/koleket/main/beatsepu.jpg",
-      "file": "https://github.com/manawangsa/sukropak/releases/download/muncang/beatsepu.mcworld"
     },
 	{
       "name": "Italian Brainrot",
@@ -291,31 +306,6 @@
       "file": "https://github.com/manawangsa/paduwae/releases/download/burik/bogalax.mcworld"
     },
 	{
-      "name": "Cherry Blossoms House",
-      "image": "https://raw.githubusercontent.com/kodizar/majula/main/cherhous.jpeg",
-      "file": "https://github.com/manawangsa/paduwae/releases/download/burik/cherhous.mcworld"
-    },
-	{
-      "name": "Aphmau House",
-      "image": "https://raw.githubusercontent.com/kodizar/majula/main/aphous.jpeg",
-      "file": "https://github.com/manawangsa/paduwae/releases/download/burik/aphous.mcworld"
-    },
-	{
-      "name": "Pink House",
-      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/pinkrum.jpg",
-      "file": "https://github.com/manawangsa/sukropak/releases/download/muncang/pinkrum.mcworld"
-    },
-	{
-      "name": "Pink Mansion",
-      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/piksion.jpg",
-      "file": "https://github.com/manawangsa/sukropak/releases/download/muncang/piksion.mcworld"
-    },
-	{
-      "name": "Mermaid Quest",
-      "image": "https://raw.githubusercontent.com/kodizar/majula/main/merque.jpeg",
-      "file": "https://github.com/manawangsa/paduwae/releases/download/burik/merque.mcworld"
-    },
-	{
       "name": "Anime Waifu",
       "image": "https://raw.githubusercontent.com/kodizar/majula/main/anwaifu.jpeg",
       "file": "https://github.com/manawangsa/paduwae/releases/download/burik/anwaifu.mcworld"
@@ -334,6 +324,16 @@
       "name": "Dino World",
       "image": "https://raw.githubusercontent.com/kodizar/majula/main/dinwor.jpg",
       "file": "https://github.com/manawangsa/sukropak/releases/download/muncang/dinwor.mcworld"
+    },
+	{
+      "name": "Ocean Monster",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/ocemons.jpg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/muncang/ocemons.mcworld"
+    },
+	{
+      "name": "Scary Spunky",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/koleket/main/beatsepu.jpg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/muncang/beatsepu.mcworld"
     },
 	{
       "name": "The Mimicer Horror",
@@ -438,39 +438,9 @@
       "file": "https://github.com/manawangsa/sukropak/releases/download/bawang/anwaifu.mcaddon"
     },
 	{
-      "name": "Eater of seas",
-      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/ethersea.jpg",
-      "file": "https://github.com/manawangsa/sukropak/releases/download/bawang/ethersea.mcaddon"
-    },
-    {
-      "name": "Parasites",
-      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/parasimon.jpg",
-      "file": "https://github.com/manawangsa/sukropak/releases/download/bawang/parasimon.mcaddon"
-    },
-	{
-      "name": "Iron Hero",
-      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/ironherzo.jpg",
-      "file": "https://github.com/manawangsa/sukropak/releases/download/bawang/ironherzo.mcaddon"
-    },
-	{
-      "name": "Jackie FNAF Mimic",
-      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/jackfnf.jpg",
-      "file": "https://github.com/manawangsa/sukropak/releases/download/bawang/jackfnf.mcaddon"
-    },
-    {
-      "name": "Superheroes",
-      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/superjay.jpg",
-      "file": "https://github.com/manawangsa/sukropak/releases/download/bawang/superjay.mcaddon"
-    },
-	{
       "name": "Ex Mermaids",
       "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/mermereq.jpg",
       "file": "https://github.com/manawangsa/sukropak/releases/download/bawang/mermereq.mcaddon"
-    },
-	{
-      "name": "The Mimicer Addon",
-      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/mimidon.jpg",
-      "file": "https://github.com/manawangsa/sukropak/releases/download/bawang/mimidon.mcaddon"
     },
 	{
       "name": "More Explosive TNT",
@@ -481,6 +451,21 @@
       "name": "Vehicles",
       "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/vehimot.jpg",
       "file": "https://github.com/manawangsa/sukropak/releases/download/bawang/vehimot.mcaddon"
+    },
+	{
+      "name": "Iron Hero",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/ironherzo.jpg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/bawang/ironherzo.mcaddon"
+    },
+    {
+      "name": "Superheroes",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/superjay.jpg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/bawang/superjay.mcaddon"
+    },
+	{
+      "name": "Spider Hero",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/spiherzo.jpg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/bawang/spiherzo.mcaddon"
     },
 	{
       "name": "Naruto Craft",
@@ -502,15 +487,30 @@
       "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/skibitoido.jpg",
       "file": "https://github.com/manawangsa/sukropak/releases/download/bawang/skibitoido.mcaddon"
     },
-	{
-      "name": "Spider Hero",
-      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/spiherzo.jpg",
-      "file": "https://github.com/manawangsa/sukropak/releases/download/bawang/spiherzo.mcaddon"
-    },
     {
       "name": "The Bloop",
       "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/theblop.jpg",
       "file": "https://github.com/manawangsa/sukropak/releases/download/bawang/theblop.mcaddon"
+    },
+	{
+      "name": "Eater of seas",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/ethersea.jpg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/bawang/ethersea.mcaddon"
+    },
+    {
+      "name": "Parasites",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/parasimon.jpg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/bawang/parasimon.mcaddon"
+    },
+	{
+      "name": "Jackie FNAF Mimic",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/jackfnf.jpg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/bawang/jackfnf.mcaddon"
+    },
+	{
+      "name": "The Mimicer Addon",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/mimidon.jpg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/bawang/mimidon.mcaddon"
     },
 	{
       "name": "The Boiled One",
